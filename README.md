@@ -21,6 +21,6 @@
 
 ### 
 
-### Snake Game in GitHub Contributions
+### Snake Game Animation in GitHub Contributions
 
-![Snake Game](https://link-para-sua-imagem)
+![Snake Game Animation](https://link-para-seu-gif-ou-video)
