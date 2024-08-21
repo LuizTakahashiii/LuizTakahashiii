@@ -21,10 +21,6 @@
 
 ### 
 
-### Play Snake Game
+### Snake Game in GitHub Contributions
 
-[Click here to play Snake Game](https://playsnake.org/)
-
-### Snake Game GIF
-
-![Snake Game](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+![Snake Game](https://link-para-sua-imagem)
